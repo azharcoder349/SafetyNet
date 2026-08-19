@@ -4,7 +4,7 @@ SafetyNet is an AI-powered personal safety application that helps users handle p
 
 🌐 Live Demo
 
-🔗 Live Deployment: "YOUR_LIVE_DEPLOYMENT_LINK"
+🔗 [Live Deployment: "YOUR_LIVE_DEPLOYMENT_LINK"](https://safety-net-mauve.vercel.app/)
 
 ✨ Features
 
